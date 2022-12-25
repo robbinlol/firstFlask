@@ -1,0 +1,7 @@
+__pycache__
+.vscode/
+coverage_result/
+.coverage
+data.db
+moudle_foo.py
+app.py
