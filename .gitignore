@@ -5,3 +5,4 @@ coverage_result/
 data.db
 moudle_foo.py
 app.py
+env/
